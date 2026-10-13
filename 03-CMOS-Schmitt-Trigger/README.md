@@ -13,7 +13,7 @@ A transistor-level CMOS Schmitt trigger designed and simulated in Cadence Virtuo
 | Layout | Included |
 | DRC | Completed (screenshot included) |
 | LVS | Matched (screenshot included) |
-| QRC extraction / extracted view | Completed by project author; extracted view will be uploaded separately |
+| QRC extraction / extracted view | QRC evidence image included; extracted view files can be added separately |
 
 ## 1. Schematic
 
@@ -61,9 +61,9 @@ The provided screenshot records an LVS match between the layout and schematic.
 
 ## 7. QRC Extraction
 
-QRC extraction has been completed and an extracted view is available. The extracted view/database will be uploaded separately because it is not part of the screenshots in this folder. Add post-layout simulation plots here when available, and clearly distinguish pre-layout and extracted-view results.
+QRC extraction has been completed. The QRC-related image already present in this project's `images` folder is shown below. The native extracted-view database and any post-layout simulation plots can be added separately when available.
 
-![Extraction window](images/schmitt-trigger-extraction-window.png)
+![QRC extraction evidence](images/1760787463538.jpg)
 
 ## Tools and Concepts
 
@@ -71,7 +71,7 @@ QRC extraction has been completed and an extracted view is available. The extrac
 - **Circuit:** CMOS Schmitt trigger
 - **Analyses:** Transient and power analysis
 - **Physical design checks:** DRC and LVS
-- **Parasitic extraction:** QRC; extracted view available separately
+- **Parasitic extraction:** QRC completed; evidence screenshot included; native extracted-view files can be added separately
 
 ## Notes
 
