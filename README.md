@@ -152,4 +152,6 @@ A transistor-level CMOS Schmitt trigger with schematic and symbol views, transie
 |---|---|---|
 | ![Layout](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-layout.png) | ![DRC](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-drc-completed.png) | ![LVS](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-lvs-matched.png) |
 
-**QRC:** Extraction completed; [QRC evidence image](03-CMOS-Schmitt-Trigger/images/1760787463538.jpg) is included in the Schmitt Trigger images folder. Native extracted-view files can be added separately. See [`03-CMOS-Schmitt-Trigger/README.md`](03-CMOS-Schmitt-Trigger/README.md) for details.
+**QRC:** Extraction completed; [QRC evidence image](03-CMOS-Schmitt-Trigger/images/1760787463538.jpg) is included in the Schmitt Trigger images folder. Native extracted-view files can be added separately. See [the Schmitt Trigger README](03-CMOS-Schmitt-Trigger/README.md) for details.
+
+![QRC extraction evidence](03-CMOS-Schmitt-Trigger/images/1760787463538.jpg)
