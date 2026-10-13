@@ -126,3 +126,30 @@ Use the input and output waveforms to verify the NOR truth-table behavior: the o
 **Learning CMOS design one building block at a time.**
 
 </div>
+
+
+## 3. CMOS Schmitt Trigger
+
+A transistor-level CMOS Schmitt trigger with schematic and symbol views, transient and power-analysis screenshots, layout, DRC/LVS evidence, and QRC extraction documentation. The extracted view itself will be added separately.
+
+### Schematic
+
+![Schmitt trigger schematic](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-schematic.png)
+
+### Symbol
+
+![Schmitt trigger symbol](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-symbol.png)
+
+### Transient and Power Analysis
+
+| Transient response | Power analysis |
+|---|---|
+| ![Transient analysis](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-transient-analysis.png) | ![Power analysis](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-power-analysis.png) |
+
+### Layout and Verification
+
+| Layout | DRC completed | LVS matched |
+|---|---|---|
+| ![Layout](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-layout.png) | ![DRC](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-drc-completed.png) | ![LVS](03-CMOS-Schmitt-Trigger/images/schmitt-trigger-lvs-matched.png) |
+
+**QRC:** Extraction completed; extracted view will be uploaded separately. See [`03-CMOS-Schmitt-Trigger/README.md`](03-CMOS-Schmitt-Trigger/README.md) for the full project documentation.
