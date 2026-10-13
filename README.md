@@ -2,7 +2,7 @@
 
 # Cadence Basics — CMOS Logic Design
 
-**CMOS Inverter · NAND Gate · NOR Gate**
+**CMOS Inverter · NAND Gate · NOR Gate · Schmitt Trigger**
 
 *A visual collection of transistor-level schematics and simulation results created in Cadence Virtuoso.*
 
